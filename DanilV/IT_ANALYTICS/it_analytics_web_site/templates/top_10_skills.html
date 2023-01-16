@@ -1,0 +1,49 @@
+{% extends "index.html" %}
+{% load static %}
+
+{% block content %}
+	<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+      <h1 class="h2">{{ dashboard_chart }}</h1>
+    </div>
+
+    <style type="text/css">
+      img[class="chart"] {
+        text-align: center;
+      }
+      p[class="chart-title"] {
+        text-align: center;
+        font-family: Calibri;
+        font-size: 24px;
+      }
+    </style>
+
+    {% for year, link in charts.items %}
+    	<p class="chart-title">График самых популярных навыков за {{ year }} год</p>
+    	<img src="media/{{ link }}" height="900" width="1500">
+    {% endfor %}
+
+	  <h2>{{ dashboard_table }}</h2>
+	  {% for year, table in tables.items %}
+	    <div class="table-responsive">
+	      <table class="table table-striped table-sm">
+	        <thead>
+	          <tr align="center">
+	          	<legend>Топ-10 самых популярных навыков в {{ year }} году</legend>
+	            <th scope="col">Навык</th>
+	            <th scope="col">Количество вакансий на навык</th>
+	          </tr>
+	        </thead>
+	        <tbody>
+	        {% for skill, quan in table.items %}
+	          <tr align="center">
+	            <td>{{ skill }}</td>
+	            <td>{{ quan }}</td>
+	          </tr>
+	        {% endfor %}  
+	        </tbody>
+	      </table>
+	    </div>
+    {% endfor %}
+  </main>
+{% endblock %}

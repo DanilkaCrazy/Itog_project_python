@@ -1,0 +1,1326 @@
+{
+  "Москва": {
+    "RUR": {
+      "2007": {
+        "middle_salary": 60000,
+        "quan": 1
+      },
+      "2008": {
+        "middle_salary": 67142,
+        "quan": 21
+      },
+      "2009": {
+        "middle_salary": 57395,
+        "quan": 24
+      },
+      "2010": {
+        "middle_salary": 58443,
+        "quan": 27
+      },
+      "2011": {
+        "middle_salary": 76487,
+        "quan": 42
+      },
+      "2012": {
+        "middle_salary": 82186,
+        "quan": 32
+      },
+      "2013": {
+        "middle_salary": 81708,
+        "quan": 36
+      },
+      "2014": {
+        "middle_salary": 77440,
+        "quan": 25
+      },
+      "2015": {
+        "middle_salary": 85328,
+        "quan": 43
+      },
+      "2016": {
+        "middle_salary": 93172,
+        "quan": 26
+      },
+      "2017": {
+        "middle_salary": 89855,
+        "quan": 45
+      },
+      "2018": {
+        "middle_salary": 108890,
+        "quan": 50
+      },
+      "2019": {
+        "middle_salary": 103043,
+        "quan": 46
+      },
+      "2020": {
+        "middle_salary": 104855,
+        "quan": 35
+      }
+    }
+  },
+  "Санкт-Петербург": {
+    "RUR": {
+      "2008": {
+        "middle_salary": 10000,
+        "quan": 1
+      },
+      "2009": {
+        "middle_salary": 41667,
+        "quan": 3
+      },
+      "2010": {
+        "middle_salary": 36938,
+        "quan": 8
+      },
+      "2011": {
+        "middle_salary": 50937,
+        "quan": 8
+      },
+      "2012": {
+        "middle_salary": 47812,
+        "quan": 8
+      },
+      "2013": {
+        "middle_salary": 50428,
+        "quan": 7
+      },
+      "2014": {
+        "middle_salary": 40875,
+        "quan": 12
+      },
+      "2015": {
+        "middle_salary": 50332,
+        "quan": 9
+      },
+      "2016": {
+        "middle_salary": 79404,
+        "quan": 21
+      },
+      "2017": {
+        "middle_salary": 61429,
+        "quan": 7
+      },
+      "2018": {
+        "middle_salary": 75834,
+        "quan": 12
+      },
+      "2019": {
+        "middle_salary": 69792,
+        "quan": 12
+      },
+      "2020": {
+        "middle_salary": 77167,
+        "quan": 15
+      }
+    }
+  },
+  "Киев": {
+    "UAH": {
+      "2010": {
+        "middle_salary": 8167,
+        "quan": 3
+      },
+      "2011": {
+        "middle_salary": 10000,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 4000,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 7750,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 7750,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 9500,
+        "quan": 2
+      },
+      "2018": {
+        "middle_salary": 25000,
+        "quan": 1
+      }
+    }
+  },
+  "Новосибирск": {
+    "RUR": {
+      "2008": {
+        "middle_salary": 17500,
+        "quan": 1
+      },
+      "2009": {
+        "middle_salary": 28500,
+        "quan": 4
+      },
+      "2010": {
+        "middle_salary": 26333,
+        "quan": 3
+      },
+      "2011": {
+        "middle_salary": 117500,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 53333,
+        "quan": 3
+      },
+      "2014": {
+        "middle_salary": 66875,
+        "quan": 4
+      },
+      "2015": {
+        "middle_salary": 40000,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 42667,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 52000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 58750,
+        "quan": 4
+      },
+      "2019": {
+        "middle_salary": 85000,
+        "quan": 2
+      },
+      "2020": {
+        "middle_salary": 62143,
+        "quan": 7
+      }
+    }
+  },
+  "Красноярск": {
+    "RUR": {
+      "2007": {
+        "middle_salary": 8000,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 60000,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 35000,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 37500,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 40000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 51618,
+        "quan": 17
+      },
+      "2018": {
+        "middle_salary": 52000,
+        "quan": 5
+      },
+      "2019": {
+        "middle_salary": 58125,
+        "quan": 8
+      },
+      "2020": {
+        "middle_salary": 42500,
+        "quan": 1
+      }
+    }
+  },
+  "Ижевск": {
+    "RUR": {
+      "2008": {
+        "middle_salary": 25000,
+        "quan": 1
+      },
+      "2009": {
+        "middle_salary": 22500,
+        "quan": 1
+      },
+      "2010": {
+        "middle_salary": 22500,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 30000,
+        "quan": 3
+      },
+      "2012": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 67500,
+        "quan": 2
+      },
+      "2019": {
+        "middle_salary": 70000,
+        "quan": 1
+      }
+    }
+  },
+  "Нижний Новгород": {
+    "RUR": {
+      "2008": {
+        "middle_salary": 20250,
+        "quan": 2
+      },
+      "2010": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 27500,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 42917,
+        "quan": 6
+      },
+      "2013": {
+        "middle_salary": 25000,
+        "quan": 4
+      },
+      "2014": {
+        "middle_salary": 40000,
+        "quan": 3
+      },
+      "2015": {
+        "middle_salary": 40000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 40000,
+        "quan": 2
+      },
+      "2017": {
+        "middle_salary": 46667,
+        "quan": 3
+      },
+      "2018": {
+        "middle_salary": 77857,
+        "quan": 7
+      },
+      "2019": {
+        "middle_salary": 68600,
+        "quan": 7
+      },
+      "2020": {
+        "middle_salary": 46667,
+        "quan": 3
+      }
+    }
+  },
+  "Кемерово": {
+    "RUR": {
+      "2008": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 90000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 27500,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 37000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 35000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 52500,
+        "quan": 2
+      },
+      "2020": {
+        "middle_salary": 42500,
+        "quan": 2
+      }
+    }
+  },
+  "Нур-Султан": {
+    "KZT": {
+      "2008": {
+        "middle_salary": 90000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 258333,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 151250,
+        "quan": 4
+      },
+      "2018": {
+        "middle_salary": 190000,
+        "quan": 3
+      },
+      "2019": {
+        "middle_salary": 192500,
+        "quan": 4
+      },
+      "2020": {
+        "middle_salary": 425000,
+        "quan": 3
+      }
+    }
+  },
+  "Алматы": {
+    "KZT": {
+      "2009": {
+        "middle_salary": 155000,
+        "quan": 1
+      },
+      "2010": {
+        "middle_salary": 175000,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 137500,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 225833,
+        "quan": 3
+      },
+      "2013": {
+        "middle_salary": 158333,
+        "quan": 3
+      },
+      "2014": {
+        "middle_salary": 100000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 209286,
+        "quan": 7
+      },
+      "2016": {
+        "middle_salary": 358333,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 345000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 339000,
+        "quan": 5
+      },
+      "2019": {
+        "middle_salary": 235000,
+        "quan": 1
+      },
+      "2020": {
+        "middle_salary": 500000,
+        "quan": 2
+      }
+    }
+  },
+  "Пермь": {
+    "RUR": {
+      "2009": {
+        "middle_salary": 7000,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 35000,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 38333,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 52000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 63750,
+        "quan": 4
+      },
+      "2019": {
+        "middle_salary": 56500,
+        "quan": 5
+      },
+      "2020": {
+        "middle_salary": 50000,
+        "quan": 1
+      }
+    }
+  },
+  "Краснодар": {
+    "RUR": {
+      "2009": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 29700,
+        "quan": 5
+      },
+      "2014": {
+        "middle_salary": 40000,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 10000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 21250,
+        "quan": 2
+      },
+      "2017": {
+        "middle_salary": 40715,
+        "quan": 7
+      },
+      "2018": {
+        "middle_salary": 42167,
+        "quan": 6
+      },
+      "2019": {
+        "middle_salary": 46446,
+        "quan": 19
+      },
+      "2020": {
+        "middle_salary": 57187,
+        "quan": 8
+      }
+    }
+  },
+  "Волгоград": {
+    "RUR": {
+      "2009": {
+        "middle_salary": 19500,
+        "quan": 1
+      },
+      "2010": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 30000,
+        "quan": 2
+      },
+      "2012": {
+        "middle_salary": 31667,
+        "quan": 3
+      },
+      "2013": {
+        "middle_salary": 25650,
+        "quan": 5
+      },
+      "2014": {
+        "middle_salary": 27415,
+        "quan": 12
+      },
+      "2015": {
+        "middle_salary": 57625,
+        "quan": 4
+      },
+      "2016": {
+        "middle_salary": 43214,
+        "quan": 7
+      },
+      "2018": {
+        "middle_salary": 43333,
+        "quan": 3
+      },
+      "2020": {
+        "middle_salary": 80000,
+        "quan": 1
+      }
+    }
+  },
+  "Оренбург": {
+    "RUR": {
+      "2009": {
+        "middle_salary": 12500,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 21500,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 32500,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 28333,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 21000,
+        "quan": 2
+      }
+    }
+  },
+  "Ульяновск": {
+    "RUR": {
+      "2009": {
+        "middle_salary": 12500,
+        "quan": 1
+      },
+      "2010": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2011": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 53333,
+        "quan": 3
+      },
+      "2018": {
+        "middle_salary": 55000,
+        "quan": 2
+      },
+      "2019": {
+        "middle_salary": 35000,
+        "quan": 1
+      }
+    }
+  },
+  "Казань": {
+    "RUR": {
+      "2010": {
+        "middle_salary": 30000,
+        "quan": 2
+      },
+      "2011": {
+        "middle_salary": 22500,
+        "quan": 4
+      },
+      "2012": {
+        "middle_salary": 36875,
+        "quan": 4
+      },
+      "2013": {
+        "middle_salary": 26125,
+        "quan": 4
+      },
+      "2014": {
+        "middle_salary": 46667,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 50000,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 47000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 40000,
+        "quan": 2
+      },
+      "2019": {
+        "middle_salary": 37500,
+        "quan": 2
+      },
+      "2020": {
+        "middle_salary": 82000,
+        "quan": 5
+      }
+    }
+  },
+  "Челябинск": {
+    "RUR": {
+      "2010": {
+        "middle_salary": 28300,
+        "quan": 2
+      },
+      "2013": {
+        "middle_salary": 30000,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 37500,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 50833,
+        "quan": 6
+      },
+      "2016": {
+        "middle_salary": 42500,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 67500,
+        "quan": 6
+      },
+      "2019": {
+        "middle_salary": 62500,
+        "quan": 4
+      },
+      "2020": {
+        "middle_salary": 30000,
+        "quan": 1
+      }
+    }
+  },
+  "Самара": {
+    "RUR": {
+      "2010": {
+        "middle_salary": 37500,
+        "quan": 2
+      },
+      "2012": {
+        "middle_salary": 35624,
+        "quan": 8
+      },
+      "2013": {
+        "middle_salary": 33750,
+        "quan": 2
+      },
+      "2014": {
+        "middle_salary": 55000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 25000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 43750,
+        "quan": 4
+      },
+      "2019": {
+        "middle_salary": 73929,
+        "quan": 7
+      },
+      "2020": {
+        "middle_salary": 75000,
+        "quan": 1
+      }
+    }
+  },
+  "Ростов-на-Дону": {
+    "RUR": {
+      "2010": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 36833,
+        "quan": 3
+      },
+      "2013": {
+        "middle_salary": 32500,
+        "quan": 6
+      },
+      "2014": {
+        "middle_salary": 48000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 35000,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 65000,
+        "quan": 4
+      },
+      "2018": {
+        "middle_salary": 58333,
+        "quan": 3
+      },
+      "2019": {
+        "middle_salary": 65000,
+        "quan": 7
+      },
+      "2020": {
+        "middle_salary": 51200,
+        "quan": 5
+      }
+    }
+  },
+  "Уфа": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 15000,
+        "quan": 2
+      },
+      "2013": {
+        "middle_salary": 43750,
+        "quan": 4
+      },
+      "2014": {
+        "middle_salary": 60000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 57000,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 25000,
+        "quan": 2
+      },
+      "2017": {
+        "middle_salary": 70000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 68250,
+        "quan": 10
+      },
+      "2019": {
+        "middle_salary": 70687,
+        "quan": 5
+      },
+      "2020": {
+        "middle_salary": 57500,
+        "quan": 2
+      }
+    }
+  },
+  "Минск": {
+    "USD": {
+      "2011": {
+        "middle_salary": 1040,
+        "quan": 5
+      },
+      "2012": {
+        "middle_salary": 1075,
+        "quan": 4
+      },
+      "2013": {
+        "middle_salary": 1000,
+        "quan": 3
+      },
+      "2014": {
+        "middle_salary": 1063,
+        "quan": 4
+      },
+      "2015": {
+        "middle_salary": 300,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 150,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 2500,
+        "quan": 2
+      },
+      "2019": {
+        "middle_salary": 2000,
+        "quan": 1
+      },
+      "2020": {
+        "middle_salary": 2250,
+        "quan": 1
+      }
+    }
+  },
+  "Иваново (Ивановская область)": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 15000,
+        "quan": 2
+      },
+      "2012": {
+        "middle_salary": 18000,
+        "quan": 2
+      },
+      "2013": {
+        "middle_salary": 47500,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 30000,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 42500,
+        "quan": 2
+      },
+      "2019": {
+        "middle_salary": 39375,
+        "quan": 4
+      }
+    }
+  },
+  "Тольятти": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 22500,
+        "quan": 2
+      },
+      "2012": {
+        "middle_salary": 24833,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 22500,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 100000,
+        "quan": 2
+      }
+    }
+  },
+  "Тамбов": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 40000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 42500,
+        "quan": 3
+      },
+      "2018": {
+        "middle_salary": 40500,
+        "quan": 5
+      },
+      "2019": {
+        "middle_salary": 56667,
+        "quan": 3
+      },
+      "2020": {
+        "middle_salary": 60000,
+        "quan": 3
+      }
+    }
+  },
+  "Томск": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 117500,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 35000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 44167,
+        "quan": 3
+      },
+      "2017": {
+        "middle_salary": 42500,
+        "quan": 5
+      },
+      "2019": {
+        "middle_salary": 35000,
+        "quan": 1
+      },
+      "2020": {
+        "middle_salary": 40000,
+        "quan": 1
+      }
+    }
+  },
+  "Владивосток": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 48750,
+        "quan": 2
+      },
+      "2014": {
+        "middle_salary": 58571,
+        "quan": 7
+      },
+      "2015": {
+        "middle_salary": 60000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 43750,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 70000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 118750,
+        "quan": 2
+      },
+      "2020": {
+        "middle_salary": 70000,
+        "quan": 1
+      }
+    }
+  },
+  "Воронеж": {
+    "RUR": {
+      "2011": {
+        "middle_salary": 26500,
+        "quan": 1
+      },
+      "2012": {
+        "middle_salary": 18600,
+        "quan": 5
+      },
+      "2013": {
+        "middle_salary": 30000,
+        "quan": 8
+      },
+      "2014": {
+        "middle_salary": 37500,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 40000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 30500,
+        "quan": 2
+      },
+      "2018": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 70000,
+        "quan": 3
+      },
+      "2020": {
+        "middle_salary": 80000,
+        "quan": 1
+      }
+    }
+  },
+  "Иркутск": {
+    "RUR": {
+      "2012": {
+        "middle_salary": 37500,
+        "quan": 1
+      },
+      "2013": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 42500,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 40333,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 33000,
+        "quan": 4
+      },
+      "2017": {
+        "middle_salary": 47200,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 23833,
+        "quan": 6
+      },
+      "2019": {
+        "middle_salary": 80000,
+        "quan": 1
+      },
+      "2020": {
+        "middle_salary": 47917,
+        "quan": 6
+      }
+    }
+  },
+  "Набережные Челны": {
+    "RUR": {
+      "2012": {
+        "middle_salary": 48000,
+        "quan": 1
+      },
+      "2014": {
+        "middle_salary": 40000,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 54250,
+        "quan": 4
+      },
+      "2016": {
+        "middle_salary": 20000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 33400,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 27500,
+        "quan": 4
+      },
+      "2020": {
+        "middle_salary": 70000,
+        "quan": 1
+      }
+    }
+  },
+  "Киров (Кировская область)": {
+    "RUR": {
+      "2013": {
+        "middle_salary": 32500,
+        "quan": 2
+      },
+      "2014": {
+        "middle_salary": 42000,
+        "quan": 4
+      },
+      "2015": {
+        "middle_salary": 95000,
+        "quan": 3
+      },
+      "2016": {
+        "middle_salary": 37500,
+        "quan": 4
+      },
+      "2017": {
+        "middle_salary": 70000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 62000,
+        "quan": 3
+      },
+      "2019": {
+        "middle_salary": 75000,
+        "quan": 2
+      }
+    }
+  },
+  "Екатеринбург": {
+    "RUR": {
+      "2014": {
+        "middle_salary": 60000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 45000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 65000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 56250,
+        "quan": 4
+      },
+      "2019": {
+        "middle_salary": 55000,
+        "quan": 3
+      },
+      "2020": {
+        "middle_salary": 86250,
+        "quan": 6
+      }
+    }
+  },
+  "Тула": {
+    "RUR": {
+      "2014": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2015": {
+        "middle_salary": 29000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 76250,
+        "quan": 2
+      },
+      "2017": {
+        "middle_salary": 43000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 48333,
+        "quan": 3
+      },
+      "2019": {
+        "middle_salary": 47750,
+        "quan": 6
+      },
+      "2020": {
+        "middle_salary": 115000,
+        "quan": 2
+      }
+    }
+  },
+  "Барнаул": {
+    "RUR": {
+      "2014": {
+        "middle_salary": 35000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 17000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 46000,
+        "quan": 5
+      },
+      "2018": {
+        "middle_salary": 36875,
+        "quan": 4
+      },
+      "2019": {
+        "middle_salary": 61600,
+        "quan": 5
+      },
+      "2020": {
+        "middle_salary": 53333,
+        "quan": 3
+      }
+    }
+  },
+  "Ставрополь": {
+    "RUR": {
+      "2014": {
+        "middle_salary": 46250,
+        "quan": 2
+      },
+      "2016": {
+        "middle_salary": 30000,
+        "quan": 2
+      },
+      "2017": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 45000,
+        "quan": 1
+      },
+      "2019": {
+        "middle_salary": 42500,
+        "quan": 1
+      },
+      "2020": {
+        "middle_salary": 57500,
+        "quan": 2
+      }
+    }
+  },
+  "Омск": {
+    "RUR": {
+      "2014": {
+        "middle_salary": 32500,
+        "quan": 2
+      },
+      "2015": {
+        "middle_salary": 50000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 65000,
+        "quan": 1
+      },
+      "2018": {
+        "middle_salary": 56667,
+        "quan": 3
+      },
+      "2019": {
+        "middle_salary": 65000,
+        "quan": 4
+      },
+      "2020": {
+        "middle_salary": 90000,
+        "quan": 2
+      }
+    }
+  },
+  "Калининград": {
+    "RUR": {
+      "2015": {
+        "middle_salary": 25000,
+        "quan": 1
+      },
+      "2016": {
+        "middle_salary": 40000,
+        "quan": 1
+      },
+      "2017": {
+        "middle_salary": 58750,
+        "quan": 4
+      },
+      "2018": {
+        "middle_salary": 61563,
+        "quan": 8
+      },
+      "2019": {
+        "middle_salary": 62200,
+        "quan": 5
+      },
+      "2020": {
+        "middle_salary": 90000,
+        "quan": 2
+      }
+    }
+  }
+}

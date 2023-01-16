@@ -1,0 +1,50 @@
+{% extends "index.html" %}
+{% load static %}
+
+{% block content %}
+  <style type="text/css">
+    legend[class="legend"] {
+      text-align: center;
+    }
+    p[class="chart-title"] {
+        text-align: center;
+        font-family: Calibri;
+        font-size: 24px;
+      }
+    td[class="text-table"] {
+      font-family: Calibri;
+        font-size: 20px;
+    }
+  </style>
+  <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <p class="chart-title">Последние вакансии на HeadHunter для 1С-разработчика</p>
+    {% for vacancy in vacancies %}
+      <div class="table-responsive">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <legend class="legend" align="center">{{ vacancy.title }}</legend align="center">
+              <td class="text-table" align="center">Название</th>
+              <td class="text-table" align="center">Описание</th>
+              <td class="text-table" align="center">Навыки</th>
+              <td class="text-table" align="center">Зарплата</th>
+              <td class="text-table" align="center">Город</th>
+              <td class="text-table" align="center">Дата публикации</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- тут jinja сняла с себя свои полномочия.. -->
+            <tr>
+              <td class="text-table" align="center">{{ vacancy.title }}</td>
+              <td class="text-table" align="center">{{ vacancy.description }}</td>
+              <td class="text-table" align="center">{{ vacancy.skills }}</td>
+              <td class="text-table" align="center">{{ vacancy.middle_salary }} {{ vacancy.currency }}</td>
+              <td class="text-table" align="center">{{ vacancy.city }}</td>
+              <td class="text-table" align="center">{{ vacancy.published_at }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    {% endfor %}
+  </main>
+{% endblock content %}

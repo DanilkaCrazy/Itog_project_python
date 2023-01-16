@@ -1,0 +1,102 @@
+{% extends "index.html" %}
+{% load static %}
+
+{% block content %}
+	<main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+    <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+      <h1 class="h2">{{ dashboard_chart }}</h1>
+    </div>
+
+    <style type="text/css">
+      img[class="chart"] {
+        text-align: center;
+      }
+    </style>
+
+    {% for chart in charts_all %}
+    	<img src="media/{{ chart.image }}" height="900" width="1500">
+    {% endfor %}
+
+    <h2>{{ dashboard_table }}</h2>
+    <div class="table-responsive">
+      <table class="table table-striped table-sm">
+        <thead>
+          <tr align="center">
+          	<legend>Динамика уровня зарплат по годам для всех профессий</legend>
+            <th scope="col">Год</th>
+            <th scope="col">Зарплата</th>
+            <th scope="col">Валюта</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for row in salary_all %}
+          <tr align="center">
+            <td>{{ row.year }}</td>
+            <td>{{ row.value }}</td>
+            <td>{{ row.curren  }}</td>
+          </tr>
+        {% endfor %}  
+        </tbody>
+      </table>
+    </div>
+    <div class="table-responsive">
+      <table class="table table-striped table-sm">
+        <thead>
+          <tr align="center">
+          	<legend>Динамика уровня зарплат по годам для 1С-разработчика</legend>
+            <th scope="col">Год</th>
+            <th scope="col">Зарплата</th>
+            <th scope="col">Валюта</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for row in salary_1c %}
+          <tr align="center">
+            <td>{{ row.year }}</td>
+            <td>{{ row.value }}</td>
+            <td>{{ row.curren  }}</td>
+          </tr>
+        {% endfor %}  
+        </tbody>
+      </table>
+    </div>
+    <div class="table-responsive">
+      <table class="table table-striped table-sm">
+        <thead>
+          <tr align="center">
+          	<legend>Количество вакансий по годам для всех профессий</legend>
+            <th scope="col">Год</th>
+            <th scope="col">Вакансий в году</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for row in amount_all %}
+          <tr align="center">
+            <td>{{ row.year }}</td>
+            <td>{{ row.value }}</td>
+          </tr>
+        {% endfor %}  
+        </tbody>
+      </table>
+    </div>
+    <div class="table-responsive">
+      <table class="table table-striped table-sm">
+        <thead>
+          <tr align="center">
+          	<legend>Количество вакансий по годам для 1C-разработчика</legend>
+            <th scope="col">Год</th>
+            <th scope="col">Вакансий в году</th>
+          </tr>
+        </thead>
+        <tbody>
+        {% for row in amount_1c %}
+          <tr align="center">
+            <td>{{ row.year }}</td>
+            <td>{{ row.value }}</td>
+          </tr>
+        {% endfor %}  
+        </tbody>
+      </table>
+    </div>
+  </main>
+{% endblock content %}
